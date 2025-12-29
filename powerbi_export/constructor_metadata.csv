@@ -1,0 +1,213 @@
+constructorId,constructorRef,constructor_name,constructor_country,team_avg_first_pit_lap,total_races_participated,total_wins
+1,mclaren,McLaren,British,16.993769470404985,189.0,2.0
+2,bmw_sauber,BMW Sauber,German,,,0.0
+3,williams,Williams,British,15.769938650306749,188.0,0.0
+4,renault,Renault,French,18.294117647058822,94.0,0.0
+5,toro_rosso,Toro Rosso,Italian,16.87741935483871,96.0,0.0
+6,ferrari,Ferrari,Italian,17.898809523809526,190.0,24.0
+7,toyota,Toyota,Japanese,,,0.0
+8,super_aguri,Super Aguri,Japanese,,,0.0
+9,red_bull,Red Bull,Austrian,17.450746268656715,194.0,70.0
+10,force_india,Force India,Indian,16.574468085106382,79.0,0.0
+11,honda,Honda,Japanese,,,0.0
+12,spyker,Spyker,Dutch,,,0.0
+13,mf1,MF1,Russian,,,0.0
+14,spyker_mf1,Spyker MF1,Dutch,,,0.0
+15,sauber,Sauber,Swiss,15.564625850340136,89.0,0.0
+16,bar,BAR,British,,,0.0
+17,jordan,Jordan,Irish,,,0.0
+18,minardi,Minardi,Italian,,,0.0
+19,jaguar,Jaguar,British,,,0.0
+20,prost,Prost,French,,,0.0
+21,arrows,Arrows,British,,,0.0
+22,benetton,Benetton,Italian,,,0.0
+23,brawn,Brawn,British,,,0.0
+24,stewart,Stewart,British,,,0.0
+25,tyrrell,Tyrrell,British,,,0.0
+26,lola,Lola,British,,,0.0
+27,ligier,Ligier,French,,,0.0
+28,forti,Forti,Italian,,,0.0
+29,footwork,Footwork,British,,,0.0
+30,pacific,Pacific,British,,,0.0
+31,simtek,Simtek,British,,,0.0
+32,team_lotus,Team Lotus,British,,,0.0
+33,larrousse,Larrousse,French,,,0.0
+34,brabham,Brabham,British,,,0.0
+35,dallara,Dallara,Italian,,,0.0
+36,fondmetal,Fondmetal,Italian,,,0.0
+37,march,March,British,,,0.0
+38,moda,Andrea Moda,Italian,,,0.0
+39,ags,AGS,French,,,0.0
+40,lambo,Lambo,Italian,,,0.0
+41,leyton,Leyton House,British,,,0.0
+42,coloni,Coloni,Italian,,,0.0
+44,eurobrun,Euro Brun,Italian,,,0.0
+45,osella,Osella,Italian,,,0.0
+46,onyx,Onyx,British,,,0.0
+47,life,Life,Italian,,,0.0
+48,rial,Rial,German,,,0.0
+49,zakspeed,Zakspeed,German,,,0.0
+50,ram,RAM,British,,,0.0
+51,alfa,Alfa Romeo,Swiss,17.738888888888887,101.0,0.0
+52,spirit,Spirit,British,,,0.0
+53,toleman,Toleman,British,,,0.0
+54,ats,ATS,Italian,,,0.0
+55,theodore,Theodore,Hong Kong,,,0.0
+56,fittipaldi,Fittipaldi,Brazilian,,,0.0
+57,ensign,Ensign,British,,,0.0
+58,shadow,Shadow,British,,,0.0
+59,wolf,Wolf,Canadian,,,0.0
+60,merzario,Merzario,Italian,,,0.0
+61,kauhsen,Kauhsen,German,,,0.0
+62,rebaque,Rebaque,Mexican,,,0.0
+63,surtees,Surtees,British,,,0.0
+64,hesketh,Hesketh,British,,,0.0
+65,martini,Martini,French,,,0.0
+66,brm,BRM,British,,,0.0
+67,penske,Penske,American,,,0.0
+68,lec,LEC,British,,,0.0
+69,mcguire,McGuire,Australian,,,0.0
+70,boro,Boro,Dutch,,,0.0
+71,apollon,Apollon,Swiss,,,0.0
+72,kojima,Kojima,Japanese,,,0.0
+73,parnelli,Parnelli,American,,,0.0
+74,maki,Maki,Japanese,,,0.0
+75,hill,Embassy Hill,British,,,0.0
+76,lyncar,Lyncar,British,,,0.0
+77,trojan,Trojan,British,,,0.0
+78,amon,Amon,New Zealander,,,0.0
+79,token,Token,British,,,0.0
+80,iso_marlboro,Iso Marlboro,British,,,0.0
+81,tecno,Tecno,Italian,,,0.0
+82,matra,Matra,French,,,0.0
+83,politoys,Politoys,British,,,0.0
+84,connew,Connew,British,,,0.0
+85,bellasi,Bellasi,Swiss,,,0.0
+86,tomaso,De Tomaso,Italian,,,0.0
+87,cooper,Cooper,British,,,0.0
+88,eagle,Eagle,American,,,0.0
+89,lds,LDS,South African,,,0.0
+90,protos,Protos,British,,,0.0
+91,shannon,Shannon,British,,,0.0
+92,scirocco,Scirocco,British,,,0.0
+93,re,RE,Rhodesian,,,0.0
+94,brp,BRP,British,,,0.0
+95,porsche,Porsche,German,,,0.0
+96,derrington,Derrington,British,,,0.0
+97,gilby,Gilby,British,,,0.0
+98,stebro,Stebro,Canadian,,,0.0
+99,emeryson,Emeryson,British,,,0.0
+100,enb,ENB,Belgian,,,0.0
+101,jbw,JBW,British,,,0.0
+102,ferguson,Ferguson,British,,,0.0
+103,mbm,MBM,Swiss,,,0.0
+104,behra-porsche,Behra-Porsche,Italian,,,0.0
+105,maserati,Maserati,Italian,,,0.0
+106,scarab,Scarab,American,,,0.0
+107,watson,Watson,American,,,0.0
+108,epperly,Epperly,American,,,0.0
+109,phillips,Phillips,American,,,0.0
+110,lesovsky,Lesovsky,American,,,0.0
+111,trevis,Trevis,American,,,0.0
+112,meskowski,Meskowski,American,,,0.0
+113,kurtis_kraft,Kurtis Kraft,American,,,0.0
+114,kuzma,Kuzma,American,,,0.0
+115,vhristensen,Christensen,American,,,0.0
+116,ewing,Ewing,American,,,0.0
+117,aston_martin,Aston Martin,British,17.466666666666665,75.0,0.0
+118,vanwall,Vanwall,British,,,0.0
+119,moore,Moore,American,,,0.0
+120,dunn,Dunn,American,,,0.0
+121,elder,Elder,American,,,0.0
+122,sutton,Sutton,American,,,0.0
+123,fry,Fry,British,,,0.0
+124,tec-mec,Tec-Mec,Italian,,,0.0
+125,connaught,Connaught,British,,,0.0
+126,alta,Alta,British,,,0.0
+127,osca,OSCA,Italian,,,0.0
+128,gordini,Gordini,French,,,0.0
+129,stevens,Stevens,American,,,0.0
+130,bugatti,Bugatti,French,,,0.0
+131,mercedes,Mercedes,German,18.605479452054794,194.0,97.0
+132,lancia,Lancia,Italian,,,0.0
+133,hwm,HWM,British,,,0.0
+134,schroeder,Schroeder,American,,,0.0
+135,pawl,Pawl,American,,,0.0
+136,pankratz,Pankratz,American,,,0.0
+137,arzani-volpini,Arzani-Volpini,Italian,,,0.0
+138,nichels,Nichels,American,,,0.0
+139,bromme,Bromme,American,,,0.0
+140,klenk,Klenk,German,,,0.0
+141,simca,Simca,French,,,0.0
+142,turner,Turner,American,,,0.0
+143,del_roy,Del Roy,American,,,0.0
+144,veritas,Veritas,German,,,0.0
+145,bmw,BMW,German,,,0.0
+146,emw,EMW,East German,,,0.0
+147,afm,AFM,German,,,0.0
+148,frazer_nash,Frazer Nash,British,,,0.0
+149,sherman,Sherman,American,,,0.0
+150,deidt,Deidt,American,,,0.0
+151,era,ERA,British,,,0.0
+152,butterworth,Aston Butterworth,British,,,0.0
+153,cisitalia,Cisitalia,Italian,,,0.0
+154,lago,Talbot-Lago,French,,,0.0
+155,hall,Hall,American,,,0.0
+156,marchese,Marchese,American,,,0.0
+157,langley,Langley,American,,,0.0
+158,rae,Rae,American,,,0.0
+159,olson,Olson,American,,,0.0
+160,wetteroth,Wetteroth,American,,,0.0
+161,adams,Adams,American,,,0.0
+162,snowberger,Snowberger,American,,,0.0
+163,milano,Milano,Italian,,,0.0
+164,hrt,HRT,Spanish,,,0.0
+167,cooper-maserati,Cooper-Maserati,British,,,0.0
+166,virgin,Virgin,British,,,0.0
+168,cooper-osca,Cooper-OSCA,British,,,0.0
+169,cooper-borgward,Cooper-Borgward,British,,,0.0
+170,cooper-climax,Cooper-Climax,British,,,0.0
+171,cooper-castellotti,Cooper-Castellotti,British,,,0.0
+172,lotus-climax,Lotus-Climax,British,,,0.0
+173,lotus-maserati,Lotus-Maserati,British,,,0.0
+174,de_tomaso-osca,De Tomaso-Osca,Italian,,,0.0
+175,de_tomaso-alfa_romeo,De Tomaso-Alfa Romeo,Italian,,,0.0
+176,lotus-brm,Lotus-BRM,British,,,0.0
+177,lotus-borgward,Lotus-Borgward,British,,,0.0
+178,cooper-alfa_romeo,Cooper-Alfa Romeo,British,,,0.0
+179,de_tomaso-ferrari,De Tomaso-Ferrari,Italian,,,0.0
+180,lotus-ford,Lotus-Ford,British,,,0.0
+181,brabham-brm,Brabham-BRM,British,,,0.0
+182,brabham-ford,Brabham-Ford,British,,,0.0
+183,brabham-climax,Brabham-Climax,British,,,0.0
+184,lds-climax,LDS-Climax,South African,,,0.0
+185,lds-alfa_romeo,LDS-Alfa Romeo,South African,,,0.0
+186,cooper-ford,Cooper-Ford,British,,,0.0
+187,mclaren-ford,McLaren-Ford,British,,,0.0
+188,mclaren-seren,McLaren-Serenissima,British,,,0.0
+189,eagle-climax,Eagle-Climax,American,,,0.0
+190,eagle-weslake,Eagle-Weslake,American,,,0.0
+191,brabham-repco,Brabham-Repco,British,,,0.0
+192,cooper-ferrari,Cooper-Ferrari,British,,,0.0
+193,cooper-ats,Cooper-ATS,British,,,0.0
+194,mclaren-brm,McLaren-BRM,British,,,0.0
+195,cooper-brm,Cooper-BRM,British,,,0.0
+196,matra-ford,Matra-Ford,French,,,0.0
+197,brm-ford,BRM-Ford,British,,,0.0
+198,mclaren-alfa_romeo,McLaren-Alfa Romeo,British,,,0.0
+199,march-alfa_romeo,March-Alfa Romeo,British,,,0.0
+200,march-ford,March-Ford,British,,,0.0
+201,lotus-pw,Lotus-Pratt &amp; Whitney,British,,,0.0
+202,shadow-ford,Shadow-Ford,British,,,0.0
+203,shadow-matra,Shadow-Matra,British,,,0.0
+204,brabham-alfa_romeo,Brabham-Alfa Romeo,British,,,0.0
+205,lotus_racing,Lotus,Malaysian,,,0.0
+206,marussia,Marussia,Russian,,,0.0
+207,caterham,Caterham,Malaysian,,,0.0
+208,lotus_f1,Lotus F1,British,16.434782608695652,16.0,0.0
+209,manor,Manor Marussia,British,17.318181818181817,38.0,0.0
+210,haas,Haas F1 Team,American,17.178947368421053,167.0,0.0
+211,racing_point,Racing Point,British,19.246153846153845,38.0,1.0
+213,alphatauri,AlphaTauri,Italian,15.368794326241135,82.0,1.0
+214,alpine,Alpine F1 Team,French,17.423076923076923,74.0,1.0
+215,rb,RB F1 Team,Italian,13.842105263157896,10.0,0.0
