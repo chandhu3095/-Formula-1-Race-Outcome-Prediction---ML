@@ -146,8 +146,7 @@ These dashboards allow:
 
 ---
 ## 📁 Project Structure
-'''text
-
+'''
 ├── data/
 │ ├── raw/ # Raw Kaggle datasets
 │ └── processed/ # Cleaned and feature-engineered data
@@ -159,7 +158,6 @@ These dashboards allow:
 ├── powerbi/
 │ └── dashboards.pbix # Power BI dashboards
 └── README.md # Project documentation
-
 '''
 ---
 
